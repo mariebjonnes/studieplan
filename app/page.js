@@ -38,7 +38,7 @@ export default function HomePage() {
 
   return (
     <section>
-      <h1>Veckoplan</h1>
+      <h1>Min veckoplan</h1>
       <form onSubmit={addItem}>
         <input
           value={title}
