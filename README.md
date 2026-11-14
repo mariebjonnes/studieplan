@@ -91,7 +91,7 @@ Webbläsaren pratar bara med Render. Actions bygger först och säger sen åt Re
 Free
 
 - Varför har du valt den? 
-Appen är liten och det räcker till uppgiften. Gratisplanen är tillåten. 
+Appen är liten och det räcker till uppgiften.
 
 - Vilka faktorer påverkar kostnaden för att driva applikationen? 
 Vilken instans man tar, om den ska vara vaken hela tiden, hur lång tid byggen tar, minne och CPU.
